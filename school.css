@@ -1,0 +1,41 @@
+body {
+  margin: 15px;
+  text-align: center;
+  font-family: "Fira Sans", sans-serif;
+  background-color: antiquewhite;
+}
+h1 {
+  text-align: center;
+}
+label {
+  text-decoration: underline;
+  text-align: right;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: bold;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+}
+a {
+  text-decoration: none;
+  color: red;
+  font-style: italic;
+  font-family: "oswald", sans-serif;
+}
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+marquee {
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+}
+#info {
+  text-decoration: none;
+  font-size: large;
+  font-family: "oswald";
+}
